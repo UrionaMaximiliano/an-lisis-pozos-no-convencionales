@@ -1,2 +1,2 @@
-# an-lisis-pozos-no-convencionales
+# analisis-pozos-no-convencionales
 EDA + ML para producción de pozos no convencionales (Argentina)
